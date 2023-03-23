@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @iamsashika
-- 👀 I’m interested in Programming, Penetration Testing, Reverse Engineering, Machine Learning, Blockchain bla bla bla...
-- 🌱 I’m currently learning Blockchain Technology...
-- 💞️ I’m looking forward to collaborate on open source projects 😍...
-- 📫 How to reach me? just shoot me a message on iamsashika[at]hotmail.com ...
+👋 Hey there! I'm `@iamsashika`, a tech enthusiast who is always seeking to push the boundaries of innovation. 👨‍💻
+
+👀 My interests range from 
+  
+  Programming 💻 to Penetration Testing 🔐, 
+  Engineering to Reverse Engineering 🛡️ ,
+  Machine Learning 🤖 to Artificial Intelligence 🧠, 
+  Cryptograpy to Blockchain ⛓️, 
+  Electronics ⚡ and beyond! 🚀
+
+💞️ I'm passionate about contributing to open source projects and love to collaborate with like-minded individuals on challenging problems. Let's build something amazing together! 😍
+
+📫 Want to get in touch? Don't hesitate to shoot me a message on `iamsashika[@]hotmail.com` 📩. Let's make an impact! 💥
+
+
+
+
 
 <!---
 iamsashika/iamsashika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
